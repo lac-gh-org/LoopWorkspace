@@ -73,3 +73,6 @@
 	path = MedtrumKit
 	url = https://github.com/LoopKit/MedtrumKit.git
 	branch = next-dev
+[submodule "GarminDataFieldService"]
+	path = GarminDataFieldService
+	url = https://github.com/elnjensen/GarminDataFieldService.git
