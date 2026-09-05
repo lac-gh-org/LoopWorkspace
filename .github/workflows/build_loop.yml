@@ -214,7 +214,6 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           high_carb_limit \
           now_line \
-          watch_title \
           2hlollipop \
           meal_days \
           basal_lock \
