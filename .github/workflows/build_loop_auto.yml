@@ -221,8 +221,8 @@ jobs:
           now_line \
           2hlollipop \
           meal_days \
-          basal_lock \
           negative_insulin
+          # basal_lock \
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
           # LoopWorkspace patches
